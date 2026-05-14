@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# build artifacts
+dist/
+
+# local env / caches
+.vscode/
+.idea/
+*.log
+backend/.env
+backend/*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# python virtual envs
+.venv/
+backend/.venv/
